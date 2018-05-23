@@ -1,3 +1,7 @@
 hi this is test file.
 
 this comment is added in test branch.
+
+this comment is added by selecting master branch.
+
+this comment is added by shifting from master to test branch.
